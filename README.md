@@ -10,6 +10,6 @@
 12.3  
 [82. 删除排序链表中的重复元素 II 中等](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) 
 
-12.4
+12.4  
 [剑指 Offer 48. 最长不含重复字符的子字符串 中等](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/)  
 思路总体是对的, 就是很多细节没把握好, 例如说越界问题, left - right 和 right++ 先后问题等等  
